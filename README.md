@@ -3,7 +3,7 @@ A redundant go-box to safely start cues via osc connection.
 Pins:
 
 MAIN:
-Go-Button: gelb auf Pin 29 (GPIO 5) 
+Go-Button: gelb auf Pin 29 (GPIO 5) </br>
 Go-Button: orange auf Pin 30 (Ground)
 Go-Button-LED: lila auf Pin 6 (Ground)
 Go-Button-LED: grau auf Pin 4 (5V)
